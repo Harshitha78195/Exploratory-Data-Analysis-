@@ -28,11 +28,6 @@ The primary goal is to use statistical summaries and visualizations to:
 
 ---
 
-##  Project Structure
-
-
----
-
 ##  Key Analyses Performed
 
 - **Summary Statistics**: Mean, median, standard deviation of numerical features
